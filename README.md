@@ -4,7 +4,7 @@ This is my attempt at solving food security problem. It is mostly a rough sketch
 
 This is proposal to solve food security problem by turning it into just an electricty problem. The idea is that we automate vertical farming. The automation must be scalable verticaly rather than horizontaly. Think small desktop sized container, containg led lights, pumps for water, robot arm, pot with some soil and some sensors for monitoring. These would be veritically stackable easily and would be essentily plug and play (think automatic washing machine). Now we have a machine which takes input some electricity, water, fertilizer, soil and seed and produces food. Out of this we neglect the cost of water, soil and fertilizer, since they pale in comparison to the electricity costs. Note that these may or may not be able to compete with crops grown using free sunlight, as the cost depends on the location. However, we have turned the food security problem into an electricty and having one of these machines problem.
 
-Now what to do about the electricty cost? One way is that govt's instead of providing subsidised food, govt could just provide free electricity upto certain kwh. This has way less scope for corruption than subsideised food scheme. Also state govts in Punjab and Delhi already provide free electrcity upto certian kwh.
+Now what to do about the electricty cost? One way is that govt's instead of providing subsidised food, govt could just provide free electricity upto certain kwh. This has way less scope for corruption than subsideised food scheme. Also some state govts in India already provide free electrcity upto certian kwh.
 
 Another way would be to wait and hope power gets cheaper over time, due to advances in new technologies such as nuclear.
 
