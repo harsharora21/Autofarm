@@ -1,6 +1,6 @@
-This is my attempt at solving food security problem. This was pitched at Octopus tank @ the portal.
+This is my attempt at solving food security problem. It is mostly a rough sketch. This was pitched at Octopus tank @ the portal.
 
-#Turning food security into an energy problem
+# Turning food security into an energy problem
 
 This is proposal to solve food security problem by turning it into just an electricty problem. The idea is that we automate vertical farming. The automation must be scalable verticaly rather than horizontaly. Think small desktop sized container, containg led lights, pumps for water, robot arm, pot with some soil and some sensors for monitoring. These would be veritically stackable easily and would be essentily plug and play (think automatic washing machine). Now we have a machine which takes input some electricity, water, fertilizer, soil and seed and produces food. Out of this we neglect the cost of water, soil and fertilizer, since they pale in comparison to the electricity costs. Note that these may or may not be able to compete with crops grown using free sunlight, as the cost depends on the location. However, we have turned the food security problem into an electricty and having one of these machines problem.
 
@@ -10,7 +10,8 @@ Another way would be to wait and hope power gets cheaper over time, due to advan
 
 One could also privately fund such a venture as a charity.
 
-#MVP
+# MVP
+
 It seems that hardest part of the problem would be building and programing the robot arm. So to bypass this we will carefuly chose a plant which drops its produce once they are ripe. There are bunch of choices. We will take tomato as it grows fast and satisfies the criteria. Now our container will be such that the fruit will fall through it, even when multiple of these container are stacked. To avoid damaging the fruit there could a shock absorbing matirial like a sponge on the bottom of the stack.
 For MVP, we will just use an led lamp as light source and a solinoid valve for watering. Future iterations can add appropriate space for light source and better watering systems.
 
